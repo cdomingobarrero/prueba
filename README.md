@@ -1,5 +1,5 @@
 # prueba
-Esta prueba técnica de un proyecto Spring Boot que incluye:
+Prueba técnica de un proyecto Spring Boot que incluye:
 - Creación de una base de datos H2
 - Creación de un endpoint REST de consulta (GET)
 - Test unitarios JUnit
